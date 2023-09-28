@@ -1,0 +1,40 @@
+<html>
+
+	<head>
+	
+		<title>Navigation</title>
+		
+	</head>
+
+	<h1>My travels</h1>
+
+	<nave>
+
+
+		<h2>Menu</h2>
+	
+		<a href = "#destinations">Destinations</a>
+	
+		<a href = "#gallery">Gallery</a>
+	
+	</nav>
+	
+	<p>Germany is a great travel desination</p>
+
+<div id = "destinations">
+
+	<h3>Macedonia</h3>
+	
+	<h3>Germany</h3>
+	
+	<h3>Turkey</h3>
+	
+	<h3>Poland</h3>
+	
+	
+</div>
+
+<div id = "gallery"></div>
+
+
+</html>
